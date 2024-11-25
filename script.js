@@ -24,7 +24,7 @@ let charlesCheese = {
 	"padding" : "0px 1em 0px 1em",
 	"bio" : "Charles Entertainment Cheese, or Chuck E. Cheese for short, is the mascot of the Chuck E. Cheese chain of family entertainment centers. From 1977 to 1992 he was an anthropomorphic rat, changing to a mouse in 1993. In 2012, he was rebranded into a slimmer, Rockstar-themed version as a response to a decrease in sales during 2011.",
 	"quotes" : ["Where a kid can be a kid!", "Help me.", "The Great All-American Pizza Show!", "Smile America.", "When you're hungry for fun!"],
-	"picture_url" : "https://static.wikia.nocookie.net/chucke/images/d/d9/Rockstar2012.png/revision/latest?cb=20221204180243",
+	"picture_url" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3364d78-f02c-4669-bfe1-f207bbe03694/df47grm-2b9937a1-d630-4953-9145-9283a7b068e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzMzY0ZDc4LWYwMmMtNDY2OS1iZmUxLWYyMDdiYmUwMzY5NFwvZGY0N2dybS0yYjk5MzdhMS1kNjMwLTQ5NTMtOTE0NS05MjgzYTdiMDY4ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M-SIBKEoDPYFh_LxXGtIE9-p3Uwuicchvyg9NE9N0Ps",
 	"font" : "Helvetica",
 	"color" : "#FFFF00"
 }
